@@ -1,7 +1,6 @@
 
 # Description 
-  This Code serves as the Biolerplate for development of ESP32 Based Project which Uses FreeRToS, Bluetooth Low Energy, External Interrupts, and esp32 EEPROM
-  for development.
+  This Code serves as the Biolerplate for development of ESP32 Based Project which Uses FreeRToS, Bluetooth Low Energy, External Interrupts, and esp32 EEPROM (flash Memory)
 
   Description : BiolerPlate code  Esp32 + FreeRtos + BLE + Interrupts + DataBase
 
