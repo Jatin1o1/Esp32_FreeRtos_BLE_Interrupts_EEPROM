@@ -18,4 +18,4 @@
     blue.h          :  File Containing Functions for Bluetooth Low energy and bluetooth data
     functions.h     :  File Containing Functions for Project
     database.h      :  File Containing Functions for Flash Memory database
-    ** Opensource.ino **  :  Main File, Contains Loop and setup F(x)    
+    Opensource.ino  :  Main File, Contains Loop and setup F(x)    
