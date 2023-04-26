@@ -1,5 +1,5 @@
 
-# Description :/*
+# Description *
   This Code serves as the Biolerplate for development of ESP32 Based Project which Uses FreeRToS, Bluetooth Low Energy, External Interrupts, and esp32 EEPROM
   for development.
 
@@ -8,8 +8,8 @@
 
 ## Hardware
 
-    ### **Module**       :  ESP WROOM 32
-    ### **Board**        :  ESP32 DEVKIT V1
+    ### Module      :  ESP WROOM 32
+    ### Board       :  ESP32 DEVKIT V1
     
 
 ## Files
