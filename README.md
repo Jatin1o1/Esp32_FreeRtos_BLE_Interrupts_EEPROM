@@ -8,14 +8,14 @@
 
 ## Hardware
 
-    ### Module      :  ESP WROOM 32
-    ### Board       :  ESP32 DEVKIT V1
+    Module      :  ESP WROOM 32
+    Board       :  ESP32 DEVKIT V1
     
 
 ## Files
 
-    **config.h**        :  File Containing Configuration of the Project
-    **Opensource.ino**  :  Main File, Contains Loop and setup F(x)    
-    **blue.h**          :  File Containing Functions for Bluetooth Low energy and bluetooth data
-    **functions.h**     :  File Containing Functions for Project
+    config.h        :  File Containing Configuration of the Project
+    Opensource.ino  :  Main File, Contains Loop and setup F(x)    
+    blue.h          :  File Containing Functions for Bluetooth Low energy and bluetooth data
+    functions.h     :  File Containing Functions for Project
 
