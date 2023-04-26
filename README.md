@@ -1,5 +1,5 @@
 
-# Description *
+# Description 
   This Code serves as the Biolerplate for development of ESP32 Based Project which Uses FreeRToS, Bluetooth Low Energy, External Interrupts, and esp32 EEPROM
   for development.
 
@@ -18,4 +18,4 @@
     blue.h          :  File Containing Functions for Bluetooth Low energy and bluetooth data
     functions.h     :  File Containing Functions for Project
     database.h      :  File Containing Functions for Flash Memory database
-    Opensource.ino  :  Main File, Contains Loop and setup F(x)    
+    ** Opensource.ino **  :  Main File, Contains Loop and setup F(x)    
